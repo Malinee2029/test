@@ -1,0 +1,28 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+L_23.png,256,256,con,102,83,131,112
+_denoise after H_1(class1).png,256,256,sct,61,56,104,96
+L_22.png,256,256,dent,140,72,154,85
+_denoise after L_1(class1).png,256,256,sct,1,153,36,202
+_denoise after H_3(class3).png,256,256,con,1,182,65,226
+CLAHE Light1 (class1).png,256,256,sct,3,156,35,197
+CLAHE med1 (class3).png,256,256,sct,48,32,61,47
+CLAHE med1 (class3).png,256,256,sct,80,56,91,68
+CLAHE med2 (class1).png,256,256,sct,122,192,146,222
+L_21.png,256,256,dent,41,120,66,141
+L_31.png,256,256,con,69,185,123,226
+CLAHE med1 (class2).png,256,256,dent,158,47,185,75
+_denoise after H_3(class2).png,256,256,dent,24,173,63,209
+L_32.png,256,256,con,99,61,145,97
+CLAHE Light2 (class2).png,256,256,dent,143,74,157,90
+CLAHE med3 (class1).png,256,256,sct,133,113,164,135
+32S9_light2_cam1 (2)_3_12.png,256,256,con,83,133,111,163
+32S9_light2_cam1 (2)_3_12.png,256,256,con,11,187,49,232
+L_33.png,256,256,con,30,141,68,181
+CLAHE hard3 (class2).png,256,256,dent,27,177,57,205
+CLAHE hard2 (class3).png,256,256,sct,51,196,132,253
+CLAHE hard1 (class1).png,256,256,sct,65,55,95,96
+CLAHE hard2 (class2).png,256,256,dent,6,152,45,187
+_denoise after H_2(class1).png,256,256,sct,174,108,191,175
+CLAHE hard3 (class3).png,256,256,con,2,178,65,220
+32S9_light2_cam1 (2)_5_10.png,256,256,con,110,45,149,80
+L_1.png,256,256,sct,1,155,37,204

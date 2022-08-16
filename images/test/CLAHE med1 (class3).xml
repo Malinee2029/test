@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>CLAHE med1 (class3).png</filename>
+	<path>/Users/malinee/Documents/img/CLAHE med1 (class3).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>32</ymin>
+			<xmax>61</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>56</ymin>
+			<xmax>91</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

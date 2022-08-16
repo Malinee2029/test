@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>H_33.png</filename>
+	<path>/Users/malinee/Documents/img/H_33.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>con</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>177</ymin>
+			<xmax>69</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>
